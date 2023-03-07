@@ -1,0 +1,11 @@
+-
+bin/*
+env/*
+include/*
+lib/*
+Toronto/*
+venv/*
+results/*
+publickey
+publickey.pub
+.env
