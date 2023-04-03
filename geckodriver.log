@@ -1,0 +1,42 @@
+1679596774917	geckodriver	INFO	Listening on 127.0.0.1:55637
+1679596775145	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55638" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/cs/v53hl0b91dxgnh2gc_dd7njh0000gn/T/rust_mozprofileiQswzv"
+2023-03-23 14:39:40.195 plugin-container[92498:14894721] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 14:39:40.195 plugin-container[92498:14894721] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:55638
+2023-03-23 14:39:40.415 plugin-container[92498:14894721] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 14:39:40.415 plugin-container[92498:14894721] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 14:39:40.416 plugin-container[92498:14894724] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 14:39:40.416 plugin-container[92498:14894724] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:55638/devtools/browser/02f7179b-1e50-469b-8cc5-0d9a37306901
+2023-03-23 18:39:41.839 plugin-container[92501:14894999] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 18:39:41.840 plugin-container[92501:14894999] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 18:39:41.842 plugin-container[92501:14894999] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 18:39:41.843 plugin-container[92501:14894999] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 18:39:41.843 plugin-container[92501:14895040] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 18:39:41.843 plugin-container[92501:14895040] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679596901709	geckodriver	INFO	Listening on 127.0.0.1:56222
+1679596902229	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56223" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/cs/v53hl0b91dxgnh2gc_dd7njh0000gn/T/rust_mozprofileGMcrS5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679596902681	Marionette	INFO	Marionette enabled
+2023-03-23 14:41:42.786 plugin-container[94775:14899909] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 14:41:42.786 plugin-container[94775:14899909] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 14:41:42.790 plugin-container[94775:14899909] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 14:41:42.790 plugin-container[94775:14899909] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 14:41:42.790 plugin-container[94775:14899914] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 14:41:42.790 plugin-container[94775:14899914] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679596902896	Marionette	INFO	Listening on port 56237
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56237
+WebDriver BiDi listening on ws://127.0.0.1:56223
+1679596903025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/cs/v53hl0b91dxgnh2gc_dd7njh0000gn/T/rust_mozprofileGMcrS5/search.json.mozlz4", (void 0)))
+2023-03-23 18:41:44.210 plugin-container[94941:14900321] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 18:41:44.210 plugin-container[94941:14900321] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 18:41:44.213 plugin-container[94941:14900321] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 18:41:44.213 plugin-container[94941:14900321] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 18:41:44.213 plugin-container[94941:14900323] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 18:41:44.213 plugin-container[94941:14900323] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:56223/devtools/browser/622b3f2c-4ba5-4814-9ac5-8a16321dd97c
+1679705408932	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1679782676887	Marionette	INFO	Stopped listening on port 56237

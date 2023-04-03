@@ -1,0 +1,191 @@
+Adapted Leisure Swim $Swimming
+After-School Club $General
+Aquafit $Swimming
+Art Club $Arts
+Badminton  with Family $Sports
+Badminton $Sports
+Badminton with Family $Sports
+Ball Hockey $Sports
+Baseball $Sports
+Basketball $Sports
+Basketball (Girls) $Sports
+Basketball (Men) $Sports
+Basketball (TTC/Police ONLY) $Sports
+Basketball (Women) $Sports
+Basketball with Family $Sports
+Bazaar Crafts $Arts
+Bazzaar Crafts $Arts
+Bingo $General
+Bocce $Sports
+Body Sculpt $Fitness
+Body Strength $Fitness
+Boot Camp $Fitness
+Bunka $Arts
+Cardio $Fitness
+Cardio Dance $Fitness
+Cardio Kickboxing $Fitness
+Cardio and Strength $Fitness
+Cards $General
+Carpet Bowling $Sports
+Chess $Arts
+Child Basketball $Sports
+Choir $Arts
+Club $General
+Club (Boys) $General
+Club (Girls) $General
+Club Social $Arts
+Colouring $Arts
+Computer Lab $Arts
+Computer Lab $General
+Cooking $General
+Country Crafts $Arts
+Crafty Creations $Arts
+Creative Writing $Arts
+Cricket $Sports
+Crochet $Arts
+Crocheting $Arts
+DROP-IN $Arts
+DROP-IN $Fitness
+Dance $Arts
+Decoupage $Arts
+Dodgeball $Sports
+Drag Masterclass $General
+Drawing and Painting $Arts
+EYS Open $General
+EYS Partnership $General
+EYS Workshop/Trip $General
+EYS-D $General
+EYS-D $Sports
+EYS-D Game Time $General
+EYS-D Game-time $General
+EYS-O $General
+EYS-PR $General
+EYS-S $Arts
+EYS-S $General
+EYS-S Artist in the 6ix $General
+EYS-W $General
+EYS-WT $General
+Figure Skating $Skating
+Fitness $Fitness
+Fitness Centre $Fitness
+Fitness With Family $Fitness
+Fitness Workout $Fitness
+Fitness Workout (Women) $Fitness
+Fitness with Family $Fitness
+Flag Football $Sports
+Floor Curling $Sports
+Floor Hockey $Sports
+Floorball $Sports
+Folk Art $Arts
+Freestyle Frisbee $Sports
+Functional Fit $Fitness
+Furniture Refinishing $Arts
+Game Time $General
+Games $General
+Games $Sports
+Games/Movie $General
+Games/Movies $General
+Gentle Fit $Fitness
+Golf $Sports
+Hiring Now $General
+Humber College Swim $Swimming
+Indoor Playground with Caregiver $General
+Knitting $Arts
+Knitting and Crocheting $Arts
+Knitting and Spinning $Arts
+Lane Swim $Swimming
+Lane Swim (Men) $Swimming
+Lane Swim (Women) $Swimming
+Lane Swim - Adult $Swimming
+Lawn Bowling $Sports
+Leisure Skate $Skating
+Leisure Skate (Unsupervised) $Skating
+Leisure Swim $Swimming
+Leisure Swim (Women) $Swimming
+Line Fit $Fitness
+Meditation $Fitness
+Mobility and Strength $Fitness
+Multi Arts $Arts
+Multi Sports $Sports
+Multi-Sport $Sports
+Multi-Sport (Girls) $Sports
+Multi-Sport (Women) $Sports
+Multi-Sport with Caregiver $Sports
+Music $Arts
+Older Adult Skate $Skating
+Open Gym $Sports
+Open Gym (Women) $Sports
+Open Gym With Family $Sports
+Open Gym with Caregiver $General
+Open Gym with Caregiver $Sports
+Open Gym with Family $Sports
+Osteo Fit $Fitness
+Painting $Arts
+Paper Tole $Arts
+ParaSport $Sports
+Pickle Ball $Sports
+Pickleball $Sports
+Pickleball with Family $Sports
+Pilates - Beginner $Fitness
+Pilates - Intermediate $Fitness
+Ping Pong $General
+Post Natal Fitness $Fitness
+Quilting $Arts
+Recreation Fun and Play with Caregiver $General
+Recreation Fun and Play with caregiver $General
+Ringette $Skating
+Rock Wall Climbing $Sports
+Sewing $Arts
+Shinny $Skating
+Shinny (All Ages) $Skating
+Shinny (Unsupervised) $Skating
+Shinny (Women) $Skating
+Shinny Youth (Unsupervised) $Skating
+Shower Facilities $Swimming
+Skateboarding $Sports
+Soccer $Sports
+Soccer (Women) $Sports
+Soccer with Caregiver $Sports
+Soccer with Family $Sports
+Social Club $General
+Social Night $General
+Special Event $General
+Squash $Sports
+Stained Glass $Arts
+Stationary Cycling $Fitness
+Step $Fitness
+Step and Strength $Fitness
+Stitching $Arts
+Stretch and Strength $Fitness
+Table Tennis $General
+Table Tennis $Sports
+Table Tennis with Family $Sports
+Tai Chi - Beginner $Fitness
+Tennis $Sports
+Volleyball $Sports
+Volleyball (Girls) $Sports
+Volleyball (Women) $Sports
+Walk Fit $Fitness
+Walking $Fitness
+Walking/Running Track $Fitness
+Walking/Running Track - Adult $Fitness
+Whittling $Arts
+Wood Carving $Arts
+Wood Working $Arts
+Woodworking $Arts
+Workshop $General
+Yoga $Fitness
+Yoga - Beginner $Fitness
+Yoga - Intermediate $Fitness
+Yoga with Family $Fitness
+Yoga/PIlates Fusion $Fitness
+Yoga/Pilates Fusion $Fitness
+Young Women's Program $General
+Youth Council $General
+Youth Night $General
+Youth Space $General
+Youth Zone $General
+Youth Zone (Boys) $General
+Youth Zone (Girls) $General
+Zumba $Fitness
+Zumba Gold $Fitness
